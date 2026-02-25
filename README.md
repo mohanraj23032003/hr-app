@@ -21,3 +21,7 @@ A simple HR Management System built using FastAPI.
 ## 👨‍💻 Author
 
 Mohanraj
+
+## 🧩 New Feature
+
+Employee module enhancement in progress.
